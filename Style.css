@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(e.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Links a{
+    color: 	#FFD700;
+    text-decoration: none;
+    margin: 15px ;
+    text-shadow: 1px 1px 3px rgb(255, 255, 255);
+}
+.Links a:hover{
+    text-decoration: underline;
+    color: 	#DDA0DD;
+}
+.Links{
+    margin-bottom: 30px;
+   /* margin-left: 200px; */
+}
+.p .dif{
+    display: inline;
+    color: #FFD700;
+    font-size: 25px;
+}
+p { display: inline; }
+.p{
+    text-align: center;
+    color: #00FFFF;
+    word-spacing: 25px;
+    letter-spacing: 4px;
+    text-shadow: 2px 2px 3px rgb(255, 255, 255);
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-size: 25px;
+   /* margin-left: 200px; */
+}
+.big_photo img{
+    width: 750px;
+    height: 250px;
+    border-radius: 50%;
+    margin-left: 400px; 
+    display: block;
+}
+.big_photo{
+    text-align: center;
+   /* margin-left: 400px; */
+}
+.big_photo button{
+    margin: 50px 150px;
+    width: 100px;
+    height: 50px;
+    background-color: #ffaf1be7;
+    border-radius: 8px;
+    text-shadow: 2px 2px 3px white;
+}
+.big_photo button:hover{
+    cursor: grab;
+    border: 2px solid 	#4169E1;
+}
+.italian h3{
+    color: #00FFFF;
+    text-align: center;
+    text-shadow: 2px 2px 2px white;
+}
+.italian img{
+    display: block;
+    height: 270px;
+    width: 180px;
+    margin: 10px 20px;
+}
+.italian button{
+    width: 90px;
+    height: 50px;
+    margin: 0px 60px;
+    border-radius: 50%;
+    background-color: #ffaf1be7;
+    border-color: white;
+    border-style: dotted;
+    border-width: 3px;
+    text-shadow: 2px 2px 2px white;
+}
+.italian button:hover{
+    cursor: grab;
+    border: 2px solid #4169E1;
+}
+.italian{
+    height: 400px;
+    width: 270px;
+    background-color: #ffaf1be7;
+    border-radius: 10px;
+    margin: auto;
+   /* margin-left: 750px;*/
+    padding: 30px;
+    box-sizing: border-box;
+}
+.pic1 img{
+    width: 600px;
+    height: 350px;
+    margin: 40px 450px;
+    border-radius: 50%;
+    border: 1px solid #ffaf1be7;
+}
+.egyptian h3{
+    color: #00FFFF;
+    text-align: center;
+    text-shadow: 2px 2px 2px white;
+}
+.egyptian img{
+    display: block;
+    height: 270px;
+    width: 180px;
+    margin: 10px 20px;
+}
+.egyptian button{
+    width: 90px;
+    height: 50px;
+    margin: 0px 60px;
+    border-radius: 50%;
+    background-color: #ffaf1be7;
+    border-color: white;
+    border-style: dotted;
+    border-width: 3px;
+    text-shadow: 2px 2px 2px white;
+}
+.egyptian button:hover{
+    cursor: grab;
+    border: 2px solid #4169E1;
+}
+.egyptian{
+    height: 400px;
+    width: 270px;
+    background-color: #ffaf1be7;
+    border-radius: 10px;
+    margin: auto;
+   /* margin-left: 750px;*/
+    padding: 30px;
+    box-sizing: border-box;
+}
+.pic2 img{
+    width: 650px;
+    height: 400px;
+    margin: 40px 450px;
+    border-radius: 50%;
+    border: 1px solid #ffaf1be7;
+}
